@@ -127,6 +127,12 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
+       This is a test site for Gatsby as I go back through the tutorials to bring myself up to date on any changes for Gatsby v5
+        <br />
+        
+        <span style={headingAccentStyles}>— starting with the official tutorial🎉🎉🎉</span>
+      </h1>
+      <h1 style={headingStyles}>
         Congratulations!!!
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
